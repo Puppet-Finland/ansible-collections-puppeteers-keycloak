@@ -45,7 +45,7 @@ tags:
 # L(specifiers,https://python-semanticversion.readthedocs.io/en/latest/#requirement-specification). Multiple version
 # range specifiers can be set and are separated by ','
 dependencies:
-  "community.general": ">=5.0.0,<6.0.0"
+  "community.general": ">=5.0.0,<7.0.0"
 
 # The URL of the originating SCM repository
 repository: https://github.com/Puppet-Finland/ansible-collections-puppeteers-keycloak
